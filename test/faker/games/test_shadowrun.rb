@@ -23,7 +23,7 @@ class TestFakerShadowrun < Test::Unit::TestCase
     assert @tester.region.match(/\w+/)
   end
 
-  def test_streetname
+  def test_street_name
     assert @tester.street_name.match(/\w+/)
   end
 end

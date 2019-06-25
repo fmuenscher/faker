@@ -1,0 +1,9 @@
+en:  
+  faker: 
+    games:
+      shadowrun:
+        metatype: ["Nocturne", "Elf"]
+        region: ["ADL", "SOX"]
+        city: ["Karlsruhe", "Vienna"]
+        streetname: ["Ostseepirat"]
+        critter: ["Barghest"]

@@ -2,8 +2,8 @@ en:
   faker: 
     games:
       shadowrun:
-        metatype: ["Nocturne", "Elf"]
-        region: ["ADL", "SOX"]
-        city: ["Karlsruhe", "Vienna"]
-        street_name: ["Ostseepirat"]
-        critter: ["Barghest"]
+        metatype: ["Elf", "Ork", "Dwarf", "Human", "Troll", "Nocturne", "Dalakiton", "Dryad", "Wakyambi", "Xapiri Thëpë", "Gnome", "Harumen", "Koborokuru", "Menehune", "Querx", "Nartaki", "Hobgoblin", "Ogres", "Oni", "Satyr", "Cyclop", "Fomori", "Giant", "Minotaur", "Pixie", "Vampire", "Loup-garou", "Nosferatu", "Banshee", "Harvester", "Goblin", "Gnawer", "Wendigo", "Grendel", "Dzoo-noo-qua", "Fomóraig", "Mutaqua"]
+        region: ["AGS", "Allied German States", "SOX", "Saar-Lorraine-Luxembourg Special Administrative Zone"]
+        city: ["Karlsruhe", "Vienna", "Hong Kong Free Enterprise Zone", "Seatle", "Chicargo", "London", "Xi'an"]
+        street_name: ["Mr. Johnson", "Riptide" , "Scarecrow", "Marauder"]
+        critter: ["Barghest", "Incubus", "Cherberus Hound", "Chimera"]

@@ -20,8 +20,8 @@ module Faker
           fetch('games.shadowrun.region')
         end
 
-        def streetname
-          fetch('games.shadowrun.streetname')
+        def street_name
+          fetch('games.shadowrun.street_name')
         end
       end
     end

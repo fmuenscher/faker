@@ -5,5 +5,5 @@ en:
         metatype: ["Nocturne", "Elf"]
         region: ["ADL", "SOX"]
         city: ["Karlsruhe", "Vienna"]
-        streetname: ["Ostseepirat"]
+        street_name: ["Ostseepirat"]
         critter: ["Barghest"]

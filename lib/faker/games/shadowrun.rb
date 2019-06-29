@@ -8,16 +8,16 @@ module Faker
           fetch('games.shadowrun.metatype')
         end
 
+        def street_name
+          fetch('games.shadowrun.street_name')
+        end
+
         def region
           fetch('games.shadowrun.region')
         end
 
         def city
           fetch('games.shadowrun.city')
-        end
-
-        def street_name
-          fetch('games.shadowrun.street_name')
         end
 
         def critter

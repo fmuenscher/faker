@@ -12,6 +12,14 @@ module Faker
           fetch('games.shadowrun.street_name')
         end
 
+        def weapon
+          fetch('games.shadowrun.weapon')
+        end
+
+        def armor
+          fetch('games.shadowrun.armor')
+        end
+
         def region
           fetch('games.shadowrun.region')
         end

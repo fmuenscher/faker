@@ -11,19 +11,27 @@ class TestFakerShadowrun < Test::Unit::TestCase
     assert @tester.metatype.match(/\w+/)
   end
 
-  def test_city
-    assert @tester.city.match(/\w+/)
+  def test_street_name
+    assert @tester.street_name.match(/\w+/)
   end
 
-  def test_critter
-    assert @tester.critter.match(/\w+/)
+  def test_weapon
+    assert @tester.weapon.match(/\w+/)
+  end
+
+  def test_armor
+    assert @tester.armor.match(/\w+/)
   end
 
   def test_region
     assert @tester.region.match(/\w+/)
   end
 
-  def test_street_name
-    assert @tester.street_name.match(/\w+/)
+  def test_city
+    assert @tester.city.match(/\w+/)
+  end
+
+  def test_critter
+    assert @tester.critter.match(/\w+/)
   end
 end
